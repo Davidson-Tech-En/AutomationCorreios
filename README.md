@@ -80,8 +80,7 @@ Automação para busca de CEP e rastreamento de objetos nos Correios.
 		├── Steps
 		│ └── BuscaSteps.cs # Steps do SpecFlow
 		│
-		├── AutomationCorreios.csproj
-		└── README.md
+		└── AutomationCorreios.csproj
 
 
 =========================================================================================================================
